@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDevelopmentEnvironment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDevelopmentEnvironment",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
